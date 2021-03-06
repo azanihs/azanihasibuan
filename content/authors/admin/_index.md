@@ -11,23 +11,24 @@ role: PhD Students in Online Collaborative Learning
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: The University of Western Australia
-  url: https://www.stanford.edu/
+  url: https://www.uwa.edu.au/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Online Collaborative Learning, Self-regulated Learning, Learning Analytics, Educational Data Mining.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Online Collaborative Learning
+- Self-regulated Learning
+- Learning Analytics
+- Educational Data Mining
 
 # Education to show in About widget
 education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: The University of Western Australia
-    year: 2012
+    year: 2020 - now
 
 
 # Social/Academic Networking
@@ -40,16 +41,16 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/azanihasibuan
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.id/citations?user=J80EKcgAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/muhammadazani
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/muhammadazani
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -64,9 +65,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Muhammad Azani Hasibuan is a Phd student at the University of Western Australia. He completed his master degree in Information Technology and his bachelor degree in Computer Science from the University of Indonesia. His main research interests center on the intersection of data mining, online learning and self-regulated learning. His research project focuses on exploring the changing and development of students’ regulation in the online collaborative learning environment.
