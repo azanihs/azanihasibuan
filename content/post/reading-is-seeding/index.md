@@ -3,7 +3,7 @@ title: Reading is seeding
 subtitle:
 
 # Summary for listings and search engines
-summary: The purpose of reading is not merely consume the text, but the most important you have to find the seed of insight that hide in text and plant it to your own mind garden. This seed should help you improve your action and belief.
+summary: The purpose of reading is not merely to consume the text, but most importantly, you have to find the seed of insight that hide in the text and plant it in your mind garden. This seed should help you improve your action and belief.
 
 # Link this post with a project
 projects: []
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/6jYoil2GhVk)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -39,4 +39,4 @@ categories:
 
 ---
 
-The purpose of reading is not merely consume the text, but the most important you have to find the seed of insight that hide in text and plant it to your own mind garden. This seed should help you improve your action and belief.
+The purpose of reading is not merely to consume the text, but most importantly, you have to find the seed of insight that hide in the text and plant it in your mind garden. This seed should help you improve your action and belief.
