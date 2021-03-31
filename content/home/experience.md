@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Head of Center of Teaching & Learning Excellence
+  - title: Head of Project Management Office - Centre for eLearning & Open Education (CeLOE)
     company: Telkom University
     company_url: 'www.telkomuniversity.ac.id '
     location: Bandung, West Java, Indonesia
-    date_start: '2018-01-01'
-    date_end: '2019-12-31'
-    description: ''
+    date_start: '2018-12-01'
+    date_end: '2019-12-24'
+    description: 'Managed the project administration for CeLOE'
+
+  - title: Head of Centre for Teaching & Learning Excellence
+    company: Telkom University
+    company_url: 'www.telkomuniversity.ac.id '
+    location: Bandung, West Java, Indonesia
+    date_start: '2018-12-01'
+    date_end: '2019-12-24'
+    description: 'Managed programs to develop online learning competency to all faculty members in Telkom University'
 
   - title: Lecturer & Researcher
     company: Telkom University
