@@ -28,6 +28,7 @@ experience:
     location: Bandung, West Java, Indonesia
     date_start: '2018'
     date_end: '2019'
+    description: ''
 
   - title: Lecturer & Researcher
     company: Telkom University
