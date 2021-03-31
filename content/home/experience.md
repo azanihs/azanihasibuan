@@ -26,15 +26,15 @@ experience:
     company: Telkom University
     company_url: 'www.telkomuniversity.ac.id '
     location: Bandung, West Java, Indonesia
-    date_start: 'Jan 2018'
-    date_end: 'Dec 2019'
+    date_start: '2018-01-01'
+    date_end: '2019-12-31'
     description: ''
 
   - title: Lecturer & Researcher
     company: Telkom University
     company_url: 'www.telkomuniversity.ac.id '
     location: Bandung, West Java, Indonesia
-    date_start: 'Mar 2014'
+    date_start: '2014-04-01'
     date_end: ''
     description: Taught Project Management, Software Engineering Project & Data Mining.
 ---
