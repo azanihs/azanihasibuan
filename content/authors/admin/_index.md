@@ -6,7 +6,7 @@ title: Muhammad Azani Hasibuan
 superuser: true
 
 # Role/position/tagline
-role: PhD Students in Online Collaborative Learning
+role: PhD Students in Learning Analytics
 
 # Organizations/Affiliations to show in About widget
 organizations:
