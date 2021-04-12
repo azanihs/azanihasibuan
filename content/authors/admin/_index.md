@@ -26,7 +26,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Computer Science
     institution: The University of Western Australia
     year: 2020 - now
 
@@ -65,4 +65,4 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-Muhammad Azani Hasibuan is a Phd student at the University of Western Australia. He completed his master degree in Information Technology and his bachelor degree in Computer Science from the University of Indonesia. His main research interests center on the intersection of data mining, online learning and self-regulated learning. His research project focuses on exploring the changing and development of students’ regulation in the online collaborative learning environment.
+Muhammad Azani Hasibuan is a Ph.D. student at the University of Western Australia. He completed his master degree in Information Technology and his bachelor degree in Computer Science from the University of Indonesia. His main research interests centre on the intersection of data mining, online learning and self-regulated learning. His research project focuses on exploring the changing and development of students’ regulation in the online collaborative learning environment.
